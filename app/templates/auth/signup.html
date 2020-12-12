@@ -1,5 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
+<div class="container-fluid">
+<div class="jumbotron">
     <div class="content-section">
         <form method="POST" action="">
             {{ form.hidden_tag() }}
@@ -66,8 +68,10 @@
     </div>
     <div class="border-top pt-3">
         <small class="text-muted">
-            Not a member? <a class="ml-2" href="{{ url_for('auth.login') }}">JOIN US</a>
+            Not a member? <a class="ml-2" href="{{ url_for('auth.login') }}">JOIN WITH US</a>
         </small>
+    </div>
+    </div>
     </div>
 
 
