@@ -2,7 +2,7 @@
 
 ## Author
 
-[Benard Akaka](https://github.com/Benardakaka)
+[Benard Akaka.](https://github.com/Benardakaka)
 
 # Description
 
@@ -75,4 +75,4 @@ Open the application on your browser `127.0.0.1:5000`.
 * [Benard-Akaka](https://github.com/Benardakaka?tab=repositories)
 ## License
  
- Licensed under[MIT license](LICENSE.md)Benerd Akaka:[©] [2020][Copyright]
+ Licensed under[MIT license](LICENSE.md)Benerd Akaka:© 2020 Copyright .
