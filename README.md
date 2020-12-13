@@ -60,21 +60,19 @@ Open the application on your browser `127.0.0.1:5000`.
 
 ## Technology used
 
-- [Python3.8](https://www.python.org/)
+- [Python3.6](https://www.python.org/)
+- [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 - [Flask](http://flask.pocoo.org/)
+- [Html](https://www.w3schools.com/html/default.asp)
 - [Heroku](https://heroku.com)
 
 ## Contact Information
 
-benardakaka@gmail.com
+[benardakaka@gmail.com]
+[0746225871]
 
 ## Live Link To Project
-
-
-
-
-
-
+* [Benard-Akaka](https://github.com/Benardakaka?tab=repositories)
 ## License
  
- Licensed under[MIT license](LICENSE.md)
+ Licensed under[MIT license](LICENSE.md): Benerd Akaka .
