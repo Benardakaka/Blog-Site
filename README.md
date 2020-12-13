@@ -6,7 +6,7 @@
 
 # Description
 
-This is an application that allows users to sign in or sign up and post blogs abroad.It also allows them to comment on the blogs they have created
+This is a website application that allows users to sign in or sign up and post blogs global.It also allows them to comment on the blogs they have created on.
 
 ## User Story
 
