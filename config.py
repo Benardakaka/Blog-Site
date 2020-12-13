@@ -14,8 +14,8 @@ class Config:
     MAIL_SERVER = 'smtp.gmail.com'
     MAIL_PORT = 587
     MAIL_USE_TLS = True
-    MAIL_USERNAME = os.environ.get("MAIL_USERNAME")
-    MAIL_PASSWORD = os.environ.get("MAIL_PASSWORD")
+    MAIL_USERNAME = 'benardakaka484@gmail.com'
+    MAIL_PASSWORD = '20302000b'
     SUBJECT_PREFIX = 'blog'
     SENDER_EMAIL = 'benardakaka484@gmail.com'
 
