@@ -68,11 +68,11 @@ Open the application on your browser `127.0.0.1:5000`.
 
 ## Contact Information
 
-[benardakaka@gmail.com]
+[benardakaka484@gmail.com]
 [0746225871]
 
 ## Live Link To Project
 * [Benard-Akaka](https://github.com/Benardakaka?tab=repositories)
 ## License
  
- Licensed under[MIT license](LICENSE.md): Benerd Akaka .
+ Licensed under[MIT license](LICENSE.md)Benerd Akaka:[©] [2020][Copyright]
