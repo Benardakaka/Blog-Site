@@ -3,6 +3,7 @@
 
 <head> </head>
 {% block content %}
+
 <div class="container-fluid">
   <div class="wrapper">
     <div style="text-align: center; font-size: 30px">
@@ -41,17 +42,22 @@
         >
           {{quote.quote}}
         </p>
-        <hr class="my-4" />
+        <hr class="my-4"/>
         <p>Author:- {{quote.author}}</p>
       </div>
-
+          
       <div
         class="container-fluid bg-primary"
-        style="position: absolute; top: 100vh"
-      >
+        style="position: absolute; top: 100vh">
         {% include 'footer.html'%}
       </div>
     </div>
   </div>
   {% endblock %}
+
+  <style>
+    body{
+      background-image: url('../static/Ben.jpg');
+    }
+  </style>
 </div>
